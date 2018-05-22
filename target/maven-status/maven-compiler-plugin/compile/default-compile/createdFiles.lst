@@ -1,0 +1,4 @@
+pl/currencyconverter/model/CurrencyConversion.class
+pl/currencyconverter/service/JsonRead.class
+pl/currencyconverter/service/ConversionService.class
+pl/currencyconverter/controller/ConversionController.class
